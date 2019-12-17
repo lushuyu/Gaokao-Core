@@ -5,6 +5,7 @@ repo_url: 'https://github.com/lushuyu/Gaokao-Core'
 
 theme:
   name: material
+  custom_dir: ./custom_theme/
   palette:
     primary: 'Light Blue'
     accent: 'Blue'
